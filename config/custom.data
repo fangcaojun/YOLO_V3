@@ -1,0 +1,4 @@
+classes= 1
+train=data/VOCdevkit2007/ImageSets/train.txt
+valid=data/VOCdevkit2007/ImageSets/val.txt
+names=data/classes.names
